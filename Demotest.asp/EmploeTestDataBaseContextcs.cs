@@ -1,8 +1,8 @@
-﻿using DemoApp.APIs.Entities;
+﻿using DemoApp.APIs.Entites;
 using DemoTest.ASP;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
-
+    
 
 namespace DemoApp.APIs
 {
